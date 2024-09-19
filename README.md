@@ -53,8 +53,8 @@ o	Save the final modified image to your local directory.
 
 
 ##### Program:
-### Developed By:
-### Register Number: 
+### Developed By: Vinush.CV
+### Register Number: 212222230176
 
 
 ## Output:
@@ -70,9 +70,9 @@ cv2.imshow('Image Window', image)
 cv2.waitKey(0)
 # Destroy all windows created by OpenCV
 cv2.destroyAllWindows()
-``
+```
 ![image](https://github.com/user-attachments/assets/9144db59-8670-42cc-95de-f973bbbd19ea)
-`
+
 
 ### ii)Draw Shapes and Add Text
 
