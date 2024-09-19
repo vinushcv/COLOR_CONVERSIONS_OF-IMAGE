@@ -66,13 +66,28 @@ o	Save the final modified image to your local directory.
 
 ### ii)Draw Shapes and Add Text
 
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/97b1dcd2-b16c-46a7-9552-47efadad7423)
+
+
+![image](https://github.com/user-attachments/assets/4d9e241a-db96-4f0e-afce-3e9c984fc136)
+
+
+![image](https://github.com/user-attachments/assets/682f7d74-6693-42a8-99a3-90b1abcf68bc)
+
+
+![image](https://github.com/user-attachments/assets/16bbd351-3385-47d8-b2f0-13662ac0bf65)
+
+
 
 ### iii)Image Color Conversion
 
-<br>
-<br>
+
+
+
+
+
+
 
 ### iv)Access and Manipulate Image Pixels
 <br>
