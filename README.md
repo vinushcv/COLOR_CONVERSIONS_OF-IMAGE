@@ -118,15 +118,15 @@ cv2.destroyAllWindows()
 ```python
 import cv2
 image = cv2.imread("gpro.jpg")
-image = cv2.resize(image, (500, 300))
-height, width, _ = image.shape
-center_coordinates = (width // 2, height // 2)
-res = cv2.circle(image, center_coordinates, 60, (0, 255, 0), 5)
+image = cv2.resize(image, (500, 500))
+
+res = cv2.circle(image,(250,250), 60, (0, 255, 0), 5)
 cv2.imshow('vinush', res)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![image](https://github.com/user-attachments/assets/682f7d74-6693-42a8-99a3-90b1abcf68bc)
+![image](https://github.com/user-attachments/assets/fc7ed7b0-4c4f-4588-a1e5-6741e072b6f8)
+
 
 #### 4) Add the text "OpenCV Drawing" at the top-left corner of the image.
 ```python
